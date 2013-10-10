@@ -1,0 +1,21 @@
+{
+    "name": "phillipsnick/pfSenseWOL",
+    "description": "PHP WOL for pfSense",
+    "homepage": "https://github.com/phillipsnick/pfSenseWOL",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nick Phillips",
+            "email": "nick@linkstudios.co.uk",
+            "homepage": "http://nickphillips.co/"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3",
+        "ext-curl": "*",
+        "phpunit/phpunit": "3.7.*"
+    },
+    "autoload": {
+        "psr-0": {"Pfsensewol": "./"}
+    }
+}
