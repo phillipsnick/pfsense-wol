@@ -1,7 +1,7 @@
 {
-    "name": "phillipsnick/pfSenseWOL",
+    "name": "phillipsnick/pfsense-wol",
     "description": "PHP WOL for pfSense",
-    "homepage": "https://github.com/phillipsnick/pfSenseWOL",
+    "homepage": "https://github.com/phillipsnick/pfsense-wol",
     "license": "MIT",
     "authors": [
         {
