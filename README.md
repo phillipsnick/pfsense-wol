@@ -16,7 +16,7 @@ Add the following to your composer.json file
 ```json
 {
     "require": {
-        "phillipsnick/pfSenseWOL": "0.0.1"
+        "phillipsnick/pfsense-wol": "dev-master"
     }
 }
 ```
@@ -26,7 +26,7 @@ Then run `composer install`
 
 ### Using Git submodules
 
-    git submodule add https://github.com/phillipsnick/pfSenseWOL.git 
+    git submodule add https://github.com/phillipsnick/pfsense-wol.git 
 
 
 ## Usage
